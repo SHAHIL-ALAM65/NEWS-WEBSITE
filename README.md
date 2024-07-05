@@ -1,7 +1,7 @@
 # NEWS-WEBSITE
 This news website is gives update for regarding 
-sports
-finance
+sports,
+finance,
 politics
-entertainments
+entertainments,
 international 
